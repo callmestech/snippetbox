@@ -7,4 +7,5 @@
    - [x] 2.4 Routing Requests
    - [x] 2.5 Customizing HTTP Headers
    - [x] 2.6 URL Query Strings
+   - [x] 2.7 Project Structure and Organization 
 - [ ] **3. Configuration and Error Handling**
