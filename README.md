@@ -10,4 +10,7 @@
    - [x] 2.7 Project Structure and Organization 
    - [x] 2.8 HTML Templating and Inheritance
    - [x] 2.9 Serving Static Files
+   - [x] 2.10 The http.Handler Interface 
 - [ ] **3. Configuration and Error Handling**
+   - [x] 3.1 Managing configuration settings
+   - [ ] 3.2 Leveled Logging 
