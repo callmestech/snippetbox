@@ -13,4 +13,4 @@
    - [x] 2.10 The http.Handler Interface 
 - [ ] **3. Configuration and Error Handling**
    - [x] 3.1 Managing configuration settings
-   - [ ] 3.2 Leveled Logging 
+   - [x] 3.2 Leveled Logging 
