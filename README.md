@@ -14,3 +14,4 @@
 - [ ] **3. Configuration and Error Handling**
    - [x] 3.1 Managing configuration settings
    - [x] 3.2 Leveled Logging 
+   - [x] 3.3 Dependency Injection
