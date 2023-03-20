@@ -15,3 +15,4 @@
    - [x] 3.1 Managing configuration settings
    - [x] 3.2 Leveled Logging 
    - [x] 3.3 Dependency Injection
+   - [x] 3.4 Centralized Error Handling
