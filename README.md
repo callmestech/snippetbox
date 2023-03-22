@@ -18,4 +18,5 @@
    - [x] 3.4 Centralized Error Handling
    - [x] 3.5 Isolating the Application Routes
 - [ ] **4. Database-Driven Responses** 
-   - [ ] 4.1 Setting Up MySQL
+   - [x] 4.1 Setting Up MySQL
+   - [x] 4.2 Installing a Database Driver   
