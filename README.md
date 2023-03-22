@@ -20,3 +20,4 @@
 - [ ] **4. Database-Driven Responses** 
    - [x] 4.1 Setting Up MySQL
    - [x] 4.2 Installing a Database Driver   
+   - [x] 4.3 Creating a Database Connection Pool
