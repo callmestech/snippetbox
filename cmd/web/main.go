@@ -1,6 +1,7 @@
 package main
 
 import (
+	"callmestech.com/snippetbox/pkg/models/mysql"
 	"database/sql"
 	"flag"
 	"log"
@@ -15,12 +16,10 @@ import (
 type application struct {
 	errorLog *log.Logger
 	infoLog  *log.Logger
+	snippets *mysql.SnippetModel
 }
 
 func main() {
-	// Define a new command-line flag with the name 'addr', a default value of
-	// and some short help text explaining what the flag controls. The value of
-	// flag will be stored in the addr variable at runtime.
 	addr := flag.String("addr", ":4000", "HTTP network address")
 	dsn := flag.String("dsn", "web:pass@/snippetbox?parseTime=true", "MySQL DSN string")
 	flag.Parse()
@@ -38,6 +37,7 @@ func main() {
 	app := &application{
 		errorLog: errorLog,
 		infoLog:  infoLog,
+		snippets: &mysql.SnippetModel{DB: db},
 	}
 
 	srv := &http.Server{
