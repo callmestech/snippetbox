@@ -22,3 +22,4 @@
    - [x] 4.2 Installing a Database Driver   
    - [x] 4.3 Creating a Database Connection Pool
    - [x] 4.4 Designing a Database Model
+   - [x] 4.5 Executing SQL Statements 
