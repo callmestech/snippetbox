@@ -23,3 +23,4 @@
    - [x] 4.3 Creating a Database Connection Pool
    - [x] 4.4 Designing a Database Model
    - [x] 4.5 Executing SQL Statements 
+   - [x] 4.6 Single-record SQL Queries 
