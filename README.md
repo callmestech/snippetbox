@@ -17,7 +17,7 @@
    - [x] 3.3 Dependency Injection
    - [x] 3.4 Centralized Error Handling
    - [x] 3.5 Isolating the Application Routes
-- [ ] **4. Database-Driven Responses** 
+- [x] **4. Database-Driven Responses** 
    - [x] 4.1 Setting Up MySQL
    - [x] 4.2 Installing a Database Driver   
    - [x] 4.3 Creating a Database Connection Pool
@@ -25,3 +25,6 @@
    - [x] 4.5 Executing SQL Statements 
    - [x] 4.6 Single-record SQL Queries
    - [x] 4.7 Multiple-record SQL Queries
+   - [x] 4.8 Transactions and Other Details 
+- [ ] **5. Dynamic HTML Templates**
+   - [x] 5.1 Displaying Dynamic Data

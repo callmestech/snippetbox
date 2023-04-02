@@ -11,8 +11,6 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
-// web application. For now we'll only include fields for the two custom logger
-// we'll add more to it as the build progresses.
 type application struct {
 	errorLog *log.Logger
 	infoLog  *log.Logger
