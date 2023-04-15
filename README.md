@@ -28,3 +28,4 @@
    - [x] 4.8 Transactions and Other Details 
 - [ ] **5. Dynamic HTML Templates**
    - [x] 5.1 Displaying Dynamic Data
+   - [x] 5.2 Template Actions and Functions
