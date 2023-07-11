@@ -29,3 +29,4 @@
 - [ ] **5. Dynamic HTML Templates**
    - [x] 5.1 Displaying Dynamic Data
    - [x] 5.2 Template Actions and Functions
+   - [x] 5.3 Caching Templates
