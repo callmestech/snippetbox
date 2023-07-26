@@ -30,3 +30,4 @@
    - [x] 5.1 Displaying Dynamic Data
    - [x] 5.2 Template Actions and Functions
    - [x] 5.3 Caching Templates
+   - [x] 5.4 Catching Runtime Errors
